@@ -1,6 +1,6 @@
 ## Hola que tal 👋
 
-file:///C:/Users/LENOVO/Documents/yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/jafetsantos1/JafetSantos.png
+![Uploading JafetSantos.png…]()
 
 - 🔭 I’m currently working on programacion
 - 🌱 I’m currently learning bases de datos en html
