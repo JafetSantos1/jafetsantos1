@@ -1,6 +1,6 @@
 ## Hola que tal 👋
 
-![Uploading JafetSantos.png…]()
+![JafetSantos](https://github.com/user-attachments/assets/448e82a9-a956-417a-9a0a-f6d55aab941f)
 
 - 🔭 I’m currently working on programacion
 - 🌱 I’m currently learning bases de datos en html
