@@ -1,6 +1,6 @@
 ## Hola que tal 👋
 
-![alt](https://https://www.canva.com/design/DAGUTlbdyA0/ggJ2YgwVcbiC3PLNPY8iPw/edit)
+![Uploading JafetSantos.png…]()
 
 - 🔭 I’m currently working on programacion
 - 🌱 I’m currently learning bases de datos en html
