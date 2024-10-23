@@ -1,8 +1,14 @@
 ## Hola que tal 👋
 
 ![JafetSantos](https://github.com/user-attachments/assets/448e82a9-a956-417a-9a0a-f6d55aab941f)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)]([https://youtube.com/jafetsantos-p5m](https://www.youtube.com/@jafetsantos-p5m)?sub_confirmation=1)
+## Mis Redes Sociales
 
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosjafetisai777)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jafet.santos.52)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JafetSantos0)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@jafetsantos-p5m)
+
+##Sobre mi 
 - 🔭 I’m currently working on programacion
 - 🌱 I’m currently learning bases de datos en html
 - 👯 I’m looking to collaborate on paginas largas
