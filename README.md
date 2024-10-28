@@ -17,4 +17,4 @@
 - 💬 Ask me about cosas
 - 📫 How to reach me: instagram
 - 😄 Pronouns: el
-- ⚡ Fun fact: estoy harto de programar
+- ⚡ Fun fact: mi primer computadora se cayo como 5 veces y estaba mas rapida que la actul
