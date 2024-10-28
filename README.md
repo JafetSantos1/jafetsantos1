@@ -4,15 +4,11 @@
 ## Mis Redes Sociales
 
 
-- [![Instagram](https://img.shields.io/badge/Instagram-Perfil-red)](https://www.instagram.com/santosjafetisai777/)
 
-- [![Facebook Followers](https://img.shields.io/badge/Facebook%20Followers-76-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jafet.santos.52)
-  
-
-- ![Twitter Follow](https://img.shields.io/twitter/follow/JafetSantos0?style=social)
-  
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/jafetsantos-p5m?style=social)
-
+[![Facebook Followers](https://img.shields.io/badge/Facebook%20Followers-76-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jafet.santos.52)
+[![Twitter](https://img.shields.io/twitter/follow/JafetSantos0?style=social)](https://twitter.com/JafetSantos0)
+[![Instagram](https://img.shields.io/badge/Instagram-Perfil-red)](https://www.instagram.com/santosjafetisai777/)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/jafetsantos-p5m?style=social)](https://www.youtube.com/channel/jafetsantos-p5m)
 
 ##Sobre mi 
 - 🔭 I’m currently working on programacion
