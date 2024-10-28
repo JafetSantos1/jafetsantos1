@@ -11,7 +11,7 @@
 
 - ![Twitter Follow](https://img.shields.io/twitter/follow/JafetSantos0?style=social)
   
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@jafetsantos-p5m?style=social)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/jafetsantos-p5m?style=social)
 
 
 ##Sobre mi 
