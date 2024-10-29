@@ -18,7 +18,8 @@
 
 - 🤝 I’m looking for help with **Animal page**
 
-- 📝 I regularly write articles on [Visual Studio COde](Visual Studio COde)
+- 📝 I regularly write articles on **Visual Studio Code and Brackets**
+
 
 - 💬 Ask me about **HTML i am an expert**
 
