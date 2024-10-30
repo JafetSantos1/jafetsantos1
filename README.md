@@ -4,10 +4,13 @@
 
 
 
-[![Facebook Followers](https://img.shields.io/badge/Facebook%20Followers-76-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jafet.santos.52)
-[![Twitter Followers](https://img.shields.io/badge/Twitter%20Followers-10-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JafetSantos0)
-[![Instagram Followers](https://img.shields.io/badge/Instagram%20Followers-6-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosjafetisai777)
-[![YouTube Subscribers](https://img.shields.io/badge/YouTube%20Subscribers-5-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/jafetsantos-p5m)
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jafetsantos0?style=social)](https://twitter.com/jafetsantos0)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/jafet.santos.52)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/jafetsantos-p5m?style=social)](https://www.youtube.com/channel/jafetsantos-p5m)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-purple?style=social&logo=instagram)](https://www.instagram.com/santosjafetisai777)
+
 
 <h1 align="center">Hi 👋, I'm Jafet Santos</h1>
 <h3 align="center">HTML expert in México</h3>
