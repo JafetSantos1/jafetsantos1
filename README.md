@@ -7,8 +7,8 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jafetsantos0?style=social)](https://twitter.com/jafetsantos0)
-[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/jafet.santos.52)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/jafetsantos-p5m?style=social)](https://www.youtube.com/channel/jafetsantos-p5m)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/jafet.santos.52)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-purple?style=social&logo=instagram)](https://www.instagram.com/santosjafetisai777)
 
 
