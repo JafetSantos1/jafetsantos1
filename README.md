@@ -42,14 +42,20 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Pagina HTML basica</h3>
+      <div align="center">
       <a href="https://www.youtube.com/watch?v=xbwqUaVYVvg">
         <img src="https://img.youtube.com/vi/xbwqUaVYVvg/0.jpg" alt="Video 1" width="100%">
       </a>
+      </div>
     </td>
     <td width="50%">
+      <h3 align="center">Como agregas CSS a HTML</h3>
+      <div align="center">
       <a href="https://www.youtube.com/watch?v=0zEipY0XRkg&t">
         <img src="https://img.youtube.com/vi/0zEipY0XRkg&t/0.jpg" alt="Video 2" width="100%">
       </a>
+      </div>
     </td>
   </tr>
 </table>
