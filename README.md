@@ -41,14 +41,14 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://www.youtube.com/watch?v=xbwqUaVYVvg">
-        <img src="https://img.youtube.com/vi/xbwqUaVYVvg/0.jpg" alt="Video 1" width="49%">
+        <img src="https://img.youtube.com/vi/xbwqUaVYVvg/0.jpg" alt="Video 1" width="100%">
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://www.youtube.com/watch?v=0zEipY0XRkg&t">
-        <img src="https://img.youtube.com/vi/0zEipY0XRkg&t/0.jpg" alt="Video 2" width="49%">
+        <img src="https://img.youtube.com/vi/0zEipY0XRkg&t/0.jpg" alt="Video 2" width="100%">
       </a>
     </td>
   </tr>
